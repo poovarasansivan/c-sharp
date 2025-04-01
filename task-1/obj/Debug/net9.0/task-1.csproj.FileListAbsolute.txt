@@ -1,0 +1,14 @@
+D:\Internship Training\c#\task-1\bin\Debug\net9.0\task-1.exe
+D:\Internship Training\c#\task-1\bin\Debug\net9.0\task-1.deps.json
+D:\Internship Training\c#\task-1\bin\Debug\net9.0\task-1.runtimeconfig.json
+D:\Internship Training\c#\task-1\bin\Debug\net9.0\task-1.dll
+D:\Internship Training\c#\task-1\bin\Debug\net9.0\task-1.pdb
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.AssemblyInfo.cs
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.dll
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\refint\task-1.dll
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.pdb
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\task-1.genruntimeconfig.cache
+D:\Internship Training\c#\task-1\obj\Debug\net9.0\ref\task-1.dll
