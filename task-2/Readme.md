@@ -1,14 +1,14 @@
-## Task Name - Working with Class and Objects
+# Task Name - Working with Class and Objects
 
 - Create a class which gets a `name` and `age` as a input and introduce the person details by creating a `Introduce()` method.
 
-# Concepts Learned
+## Concepts Learned
 
 - `Class` : Blueprints or template that defines the structure and behvaior of the objects.
 - `Object` : It object is an instance of a class that holds data and can perform actions defined by its methods.
 - `Accessing Fields` and `Methods`: Uses the dot `(.)` operator to access fields and methods. To set the value for properties we will use `(.)` operator.
 
-# Code Snippet
+## Code Snippet
 
 ```
 class Person
@@ -52,6 +52,6 @@ class Program
 - Updates the class properties values and calls the method again to print the new message.
 
 
-# Console Output
+## Console Output
 
 ![class-object](./assets/image.png)

@@ -1,4 +1,6 @@
 # Task Name -Write a Program to Calculate a factorial of a number using Loop or Recursion.
+        
+- Write a factorial program using a loop or recursion that will get a input from a user through the console and calculate the factorial of a number and print it on console.
 
 
 ## Concepts Learned
