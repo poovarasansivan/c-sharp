@@ -1,7 +1,7 @@
-## Task Name -Write a Program to Calculate a factorial of a number using Loop or Recursion.
+# Task Name -Write a Program to Calculate a factorial of a number using Loop or Recursion.
 
 
-# Concepts Learned
+## Concepts Learned
 
 1. Basics of C# Syntax Structure.
 
@@ -36,7 +36,7 @@
 - Jump Statements: `break`, `continue`, `return`, `goto`.
 
 
-# Code Explanation
+## Code Explanation
 
 ```
 namespace task_1
@@ -126,6 +126,6 @@ namespace task_1
 - `Console.WriteLine(fact)` it will prints the calculater factorial of a number entered by the user.
 
 
-# Output Of a Program
+## Output Of a Program
 
 ![factorial-program](./assets/image.png)
