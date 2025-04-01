@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-2\classdemo\bin\Debug\net9.0\classdemo.exe
+D:\Internship Training\c#\task-2\classdemo\bin\Debug\net9.0\classdemo.deps.json
+D:\Internship Training\c#\task-2\classdemo\bin\Debug\net9.0\classdemo.runtimeconfig.json
+D:\Internship Training\c#\task-2\classdemo\bin\Debug\net9.0\classdemo.dll
+D:\Internship Training\c#\task-2\classdemo\bin\Debug\net9.0\classdemo.pdb
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.AssemblyInfo.cs
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.sourcelink.json
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.dll
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\refint\classdemo.dll
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.pdb
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\classdemo.genruntimeconfig.cache
+D:\Internship Training\c#\task-2\classdemo\obj\Debug\net9.0\ref\classdemo.dll
