@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.AssemblyInfo.cs
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.sourcelink.json
+D:\Internship Training\c#\task-3\collectionsdemo\bin\Debug\net9.0\collectionsdemo.exe
+D:\Internship Training\c#\task-3\collectionsdemo\bin\Debug\net9.0\collectionsdemo.deps.json
+D:\Internship Training\c#\task-3\collectionsdemo\bin\Debug\net9.0\collectionsdemo.runtimeconfig.json
+D:\Internship Training\c#\task-3\collectionsdemo\bin\Debug\net9.0\collectionsdemo.dll
+D:\Internship Training\c#\task-3\collectionsdemo\bin\Debug\net9.0\collectionsdemo.pdb
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.dll
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\refint\collectionsdemo.dll
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.pdb
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\collectionsdemo.genruntimeconfig.cache
+D:\Internship Training\c#\task-3\collectionsdemo\obj\Debug\net9.0\ref\collectionsdemo.dll
