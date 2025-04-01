@@ -1,10 +1,40 @@
 ## Task Name -Write a Program to Calculate a factorial of a number using Loop or Recursion.
 
+
 # Concepts Learned
 
-- Basics of C#.
+1. Basics of C# Syntax Structure.
+
+- `Namespace`: Groups related classes and avoids naming conflicts.
+- `Class`: A blueprint for creating objects.
+- `Main` Method: Entry point of the program.
+- `Statements` and `Expressions`: Basic building blocks of a program.
+
 - Console Input and Console Output.
 - Operators, Conditional Statements and Looping Statements.
+
+2. Variables and Data Types
+
+- Variables: Used to store data.
+- Value Types: `int`, `float`, `double`, `bool`, `char`, `decimal`, etc.
+- Reference Types: `string`, `object`, `array`, `class`, etc.
+- Nullable Types: Allows value types to hold `null`.
+
+3. Operators
+
+- Arithmetic Operators: `+`, `-`, `*`, `/`, `%`
+- Relational Operators: `==`, `!=`, `<`, `>`, `<=`, `>=`
+- Logical Operators: `&&`, `||`, `!`
+- Assignment Operators: `=`, `+=`, `-=`, `*=`, `/=`,` %=`
+- Bitwise Operators: `&`, `|`, `^`, `~`, `<<`, `>>`
+- Ternary Operator: `condition ? expr1 : expr2`
+
+4. Control Flow Statements
+
+- Conditional Statements: `if`, `else if`, `else`, `switch`.
+- Looping Statements: `for`, `while`, `do-while`, `foreach`.
+- Jump Statements: `break`, `continue`, `return`, `goto`.
+
 
 # Code Explanation
 
