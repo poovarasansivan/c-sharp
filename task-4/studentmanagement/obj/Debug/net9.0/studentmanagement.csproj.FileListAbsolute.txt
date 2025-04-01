@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.AssemblyInfo.cs
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.sourcelink.json
+D:\Internship Training\c#\task-4\studentmanagement\bin\Debug\net9.0\studentmanagement.exe
+D:\Internship Training\c#\task-4\studentmanagement\bin\Debug\net9.0\studentmanagement.deps.json
+D:\Internship Training\c#\task-4\studentmanagement\bin\Debug\net9.0\studentmanagement.runtimeconfig.json
+D:\Internship Training\c#\task-4\studentmanagement\bin\Debug\net9.0\studentmanagement.dll
+D:\Internship Training\c#\task-4\studentmanagement\bin\Debug\net9.0\studentmanagement.pdb
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.dll
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\refint\studentmanagement.dll
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.pdb
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\studentmanagement.genruntimeconfig.cache
+D:\Internship Training\c#\task-4\studentmanagement\obj\Debug\net9.0\ref\studentmanagement.dll
