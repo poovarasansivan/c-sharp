@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-6\eventandelegates\bin\Debug\net9.0\eventandelegates.exe
+D:\Internship Training\c#\task-6\eventandelegates\bin\Debug\net9.0\eventandelegates.deps.json
+D:\Internship Training\c#\task-6\eventandelegates\bin\Debug\net9.0\eventandelegates.runtimeconfig.json
+D:\Internship Training\c#\task-6\eventandelegates\bin\Debug\net9.0\eventandelegates.dll
+D:\Internship Training\c#\task-6\eventandelegates\bin\Debug\net9.0\eventandelegates.pdb
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.AssemblyInfo.cs
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.sourcelink.json
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.dll
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\refint\eventandelegates.dll
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.pdb
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\eventandelegates.genruntimeconfig.cache
+D:\Internship Training\c#\task-6\eventandelegates\obj\Debug\net9.0\ref\eventandelegates.dll
