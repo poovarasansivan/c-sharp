@@ -19,7 +19,6 @@
 9. `DirectoryInfo`: Provides instance methods for directory operations.
 10. `Path` : Performs operations on path strings.
 
-
 ## Expections
 
 - Exception handling that helps to maintain application stability by managing runtime errors. Proper handling prevents crashes and provides meaningful error messages to users.
