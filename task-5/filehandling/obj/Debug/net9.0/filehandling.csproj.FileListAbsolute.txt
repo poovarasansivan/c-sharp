@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-5\filehandling\bin\Debug\net9.0\filehandling.exe
+D:\Internship Training\c#\task-5\filehandling\bin\Debug\net9.0\filehandling.deps.json
+D:\Internship Training\c#\task-5\filehandling\bin\Debug\net9.0\filehandling.runtimeconfig.json
+D:\Internship Training\c#\task-5\filehandling\bin\Debug\net9.0\filehandling.dll
+D:\Internship Training\c#\task-5\filehandling\bin\Debug\net9.0\filehandling.pdb
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.AssemblyInfo.cs
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.sourcelink.json
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.dll
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\refint\filehandling.dll
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.pdb
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\filehandling.genruntimeconfig.cache
+D:\Internship Training\c#\task-5\filehandling\obj\Debug\net9.0\ref\filehandling.dll
