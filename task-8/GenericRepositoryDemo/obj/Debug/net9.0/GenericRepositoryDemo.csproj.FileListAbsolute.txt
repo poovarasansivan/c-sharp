@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.AssemblyInfo.cs
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.sourcelink.json
+D:\Internship Training\c#\task-8\genericrepositorydemo\bin\Debug\net9.0\GenericRepositoryDemo.exe
+D:\Internship Training\c#\task-8\genericrepositorydemo\bin\Debug\net9.0\GenericRepositoryDemo.deps.json
+D:\Internship Training\c#\task-8\genericrepositorydemo\bin\Debug\net9.0\GenericRepositoryDemo.runtimeconfig.json
+D:\Internship Training\c#\task-8\genericrepositorydemo\bin\Debug\net9.0\GenericRepositoryDemo.dll
+D:\Internship Training\c#\task-8\genericrepositorydemo\bin\Debug\net9.0\GenericRepositoryDemo.pdb
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.dll
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\refint\GenericRepositoryDemo.dll
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.pdb
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\GenericRepositoryDemo.genruntimeconfig.cache
+D:\Internship Training\c#\task-8\genericrepositorydemo\obj\Debug\net9.0\ref\GenericRepositoryDemo.dll
