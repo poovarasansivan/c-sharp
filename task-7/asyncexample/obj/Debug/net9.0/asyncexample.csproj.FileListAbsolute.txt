@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-7\asyncexample\bin\Debug\net9.0\asyncexample.exe
+D:\Internship Training\c#\task-7\asyncexample\bin\Debug\net9.0\asyncexample.deps.json
+D:\Internship Training\c#\task-7\asyncexample\bin\Debug\net9.0\asyncexample.runtimeconfig.json
+D:\Internship Training\c#\task-7\asyncexample\bin\Debug\net9.0\asyncexample.dll
+D:\Internship Training\c#\task-7\asyncexample\bin\Debug\net9.0\asyncexample.pdb
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.AssemblyInfo.cs
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.sourcelink.json
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.dll
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\refint\asyncexample.dll
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.pdb
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\asyncexample.genruntimeconfig.cache
+D:\Internship Training\c#\task-7\asyncexample\obj\Debug\net9.0\ref\asyncexample.dll
