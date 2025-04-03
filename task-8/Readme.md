@@ -139,7 +139,7 @@ public async Task UpdateAsync(T entity)
 }
 ```
 
-- UpdateAsync: Updates an existing entity based on its `RollNo`.
+- `UpdateAsync`: Updates an existing entity based on its `RollNo`.
 
 ```
 public async Task<bool> DeleteAsync(string rollno)
