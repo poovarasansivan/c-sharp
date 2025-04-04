@@ -1,0 +1,15 @@
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.AssemblyInfoInputs.cache
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.AssemblyInfo.cs
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.csproj.CoreCompileInputs.cache
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.sourcelink.json
+D:\Internship Training\c#\task-9\reflectiondemo\bin\Debug\net9.0\reflectiondemo.exe
+D:\Internship Training\c#\task-9\reflectiondemo\bin\Debug\net9.0\reflectiondemo.deps.json
+D:\Internship Training\c#\task-9\reflectiondemo\bin\Debug\net9.0\reflectiondemo.runtimeconfig.json
+D:\Internship Training\c#\task-9\reflectiondemo\bin\Debug\net9.0\reflectiondemo.dll
+D:\Internship Training\c#\task-9\reflectiondemo\bin\Debug\net9.0\reflectiondemo.pdb
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.dll
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\refint\reflectiondemo.dll
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.pdb
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\reflectiondemo.genruntimeconfig.cache
+D:\Internship Training\c#\task-9\reflectiondemo\obj\Debug\net9.0\ref\reflectiondemo.dll
